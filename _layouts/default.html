@@ -20,25 +20,37 @@
     </head>
     <body>
         <div class="container">
-        <div class="row">                      
-            <div class="span4 left-side">                
-                <p>email: baba.en.ciel@gmail.com</p>
-                <p>facebook: babaenciel</p>
-                <p>twitter: babaenciel</p>
-                <p>soundcloud: babaenciel</p>
-            </div>
-            <div class="span4">    
-                <h1 class="title">{{ site.name }}</h1>
-                <img src="/img/tamago.jpg">                
+            <div class="row">                      
+                <div class="span4 left-side">                
+                    <a href="mailto:am.adhatama@gmail.com"><p>emailku?</p></a>
+                    <a href="http://facebook.com/am.adhatama"><p>facebookku?</p></a>
+                    <a href="http://twitter.com/babaenciel"><p>twitterku?</p></a>
+                    <a href="http://soundcloud.com/akbar-m-adhatama"><p>soundcloudku?</p></a>
+                </div>
+                <div class="span4">    
+                    <h1 class="title">{{ site.name }}</h1>
+                    <img src="/img/tamago.jpg">                
+                </div>
+
+                <div class="span4 right-side">
+                    <h4>Yang Lagi Happening</h4>
+                    <p>asodkoasdk oaskdoa kodk oaksdo akdo kasokd osak doa dksoa kdo ak</p>
+                    <p>asodkoasdk oaskdoa kodk oaksdo akdo kasokd osak doa dksoa kdo ak</p>
+                    <p>asodkoasdk oaskdoa kodk oaksdo akdo kasokd osak doa dksoa kdo ak</p>
+                </div>                            
             </div>
 
-            <div class="span4 right-side">
-                <h4>Yang Lagi Happening</h4>
-                <p>asodkoasdk oaskdoa kodk oaksdo akdo kasokd osak doa dksoa kdo ak</p>
-                <p>asodkoasdk oaskdoa kodk oaksdo akdo kasokd osak doa dksoa kdo ak</p>
-                <p>asodkoasdk oaskdoa kodk oaksdo akdo kasokd osak doa dksoa kdo ak</p>
-            </div>                            
-        </div>                 
-        </div>                               
+            <div class="row">
+                <div class="span6 content-left">
+                    <h3 style="text-align: center">Story</h3>
+                    {{ content }}
+                </div>
+                <div class="span6 content-right">
+                    <h3 style="text-align: center">Random Post</h3>
+                    {{ content }}
+                </div>
+            </div>
+
+        </div>        
     </body>
 </html>

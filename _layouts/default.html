@@ -41,8 +41,17 @@
             </div>
 
             <div class="row">
-                <div class="span6 offset3 content-post-home">                    
-                    {{ content }}
+                <div class="span7 offset3 content-post-home">                    
+                    <ul style="list-style-type: none">
+                    {% for post in site.posts %}
+                    <li>
+                        <a href="{{ post.url }}">                        
+                            <h5>{{ post.title }}</h5>
+                            <p style="margin-top: -20px;" class="muted"> {{ post.date | date_to_long_string }} </p>
+                        </a>
+                    </li>     
+                    {% endfor %}
+                    </ul>
                 </div>                
             </div>
 

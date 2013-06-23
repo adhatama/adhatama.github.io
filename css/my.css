@@ -1,5 +1,9 @@
+p {
+	line-height: 35px;
+}
+
 .left-side {	
-	padding-top: 130px;
+	padding-top: 115px;
 	text-align: right;
 }
 
@@ -20,7 +24,11 @@
 }
 
 .content-post-home {	
-	margin-top: 20px;
+	margin-top: 20px;	
+}
+
+.content-post-home a {
+	
 }
 
 .content-post {

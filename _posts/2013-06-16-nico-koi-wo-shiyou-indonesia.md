@@ -7,7 +7,7 @@ Ini salah satu lagu Nico yang udah tak repeat 748x.
 Kemarin iseng-iseng nyari [terjemahannya yang English](http://lyricstranslate.com/en/koi-wo-shiyou-%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86-lets-fall-love.html), eh ternyata lucu liriknya. Romantis-romantis konyol gitu kesannya.
 Trus iseng lagi deh sekarang bikin terjemahan indonesianya.
 <br>
-<center><iframe width="420" height="315" src="http://www.youtube.com/embed/AalrFLfDUdk" frameborder="0" allowfullscreen></iframe> </center>
+<center><iframe width="420" height="315" src="https://www.youtube.com/embed/2EsF54H0aps" frameborder="0" allowfullscreen></iframe></center>
 <br>
 
 <center>Koi Wo Shiyou</center>

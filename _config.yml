@@ -1,8 +1,7 @@
-name: Project Tamago
+name: Adhatama
 url: "adhatama.github.io"
 permalink: pretty
-pygments: true
-markdown: rdiscount
+highlighter: true
 
 # port: 4000
 # auto: true

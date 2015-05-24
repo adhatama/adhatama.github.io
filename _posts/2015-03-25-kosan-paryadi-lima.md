@@ -1,5 +1,5 @@
 ---
-title: #5 Kosan Paryadi - Ngopi Shigatsu
+title: Kosan Paryadi - Ngopi Shigatsu
 layout: post
 ---
 

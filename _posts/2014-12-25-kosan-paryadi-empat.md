@@ -1,5 +1,5 @@
 ---
-title: #4 Kosan Paryadi - Dilema Besar Seorang Pencinta
+title: Kosan Paryadi - Dilema Besar Seorang Pencinta
 layout: post
 ---
 

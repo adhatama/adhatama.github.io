@@ -1,5 +1,5 @@
 ---
-title: #4 Kosan Paryadi - Tentang Adi
+title: Kosan Paryadi - Tentang Adi
 layout: post
 ---
 

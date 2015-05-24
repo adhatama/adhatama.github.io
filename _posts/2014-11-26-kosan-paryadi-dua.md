@@ -1,5 +1,5 @@
 ---
-title: #2 Kosan Paryadi - Bagaimana Mencintai
+title: Kosan Paryadi - Bagaimana Mencintai
 layout: post
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: #1 Kosan Paryadi - Si Pintar yang Tolol karena Jatuh Cinta.
+title: 1. Kosan Paryadi - Si Pintar yang Tolol karena Jatuh Cinta.
 layout: post
 ---
 

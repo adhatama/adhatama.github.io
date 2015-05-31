@@ -13,6 +13,7 @@ Deadline: 1 Juli 2015
 Task:   
 	- Mendalami Geb
 	- Write lesson learned nya  
+
 Minutes per Day: 20 minutes  
 Excuses: Yes  
 

@@ -190,8 +190,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #book {
-	padding-top: -50px;
-	padding-bottom: 50px;
+
 }
 
 .book-icon {
@@ -205,6 +204,7 @@ h1, h2, h3, h4, h5, h6 {
 .book-gallery a {
 	color: #4a4a4a;
 	text-decoration: none;
+	height: 250px;
 }
 
 .book-gallery-text {

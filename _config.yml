@@ -1,9 +1,8 @@
 name: Adhatama
 url: "adhatama.github.io"
 permalink: pretty
-highlighter: true
-# markdown: rdiscount
-
+markdown: kramdown
+highlighter: rouge
 # port: 4000
 # auto: true
 # safe: true

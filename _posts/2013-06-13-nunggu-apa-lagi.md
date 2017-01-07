@@ -1,6 +1,7 @@
 ---
 title: Nunggu Apa Lagi?
 layout: post
+categories: Apapun
 ---
 
 Bagi kalian-kalian yang masih ragu untuk mengikuti hasrat terdalam yang ada dalam dirimu. Kalian takut? sama aku juga. Tapi aku mencoba tetep nglakukannya. Dan siapa yang tahu kalau memang kita ditakdirkan untuk melakukan sesuatu yang kita amat senangi itu? Kalau kita tidak membuktikannya sendiri. Sudah berkali-kali aku nyerah. Yang jelas, terlalu cepet nyerah. Tapi kali ini moga-moga aja ndak. Daripada aku hidup melakukan apa yang orang lain katakan kepadaku, bukan hatiku dan tak kusukai kemudian mati, tentu saja lebih baik hidup full enjoy dan melakukan apa yang kusuka.

@@ -1,6 +1,7 @@
 ---
 title: Pelajaran Dari Proposal Daisakusen
 layout: post
+categories: Apapun
 ---
 
 [Proposal Daisakusen](http://wiki.d-addicts.com/Proposal_Daisakusen) adalah dorama pertama yang sampai sekarang begitu spesial memorinya bagiku. Dorama itu yang bikin aku jadi gila dorama.

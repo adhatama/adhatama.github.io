@@ -1,6 +1,7 @@
 ---
 title: The Hyde - Chapter 1 - Ability
 layout: post
+categories: Apapun
 ---
 
 Jujur aja, aku ndak tau mau nulis apa untuk memenuhi komitmen minggu ini. Biar ndak malu sama diri sendiri, mendingan aku ngeshare autobiografinya Hyde Laruku aja deh.

@@ -1,6 +1,7 @@
 ---
 title: Kosan Paryadi - Bagaimana Mencintai
 layout: post
+categories: Cerpen
 ---
 
 Aku sudah duduk di kamar luas bersama digital piano, gitar akustik, dan secangkir kopi yang khusus disiapkan untukku.  

@@ -1,6 +1,7 @@
 ---
 title: Kosan Paryadi - Ngopi Shigatsu
 layout: post
+categories: Cerpen
 ---
 
 "Tidak, aku tidak sedang menangisi kesedihanku sendiri. Air mata ini keluar karena anime bodoh ini."  

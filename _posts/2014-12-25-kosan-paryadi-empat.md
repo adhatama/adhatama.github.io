@@ -1,6 +1,7 @@
 ---
 title: Kosan Paryadi - Dilema Besar Seorang Pencinta
 layout: post
+categories: Cerpen
 ---
 
 Sudah beberapa hari ini hujan terus di Bandung, membuatku beberapa kali juga mengurungkan niat untuk main ke kosan si Adi. Baru sekarang bisa kesampaian.  

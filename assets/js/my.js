@@ -1,0 +1,1 @@
+$(document).ready(function(){setTimeout(function(){$("#title").addClass("animated swing")},1e3)});

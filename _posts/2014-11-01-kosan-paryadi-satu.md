@@ -1,6 +1,7 @@
 ---
 title: Kosan Paryadi - Si Pintar yang Tolol karena Jatuh Cinta.
 layout: post
+categories: Cerpen
 ---
 
 Berikut adalah kesaksian Paryadi Sumarno yang akrab disapa Adi.  

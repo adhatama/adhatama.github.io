@@ -1,6 +1,7 @@
 ---
 title: NICO Touches The Wall - Koi Wo Shiyou (Indonesia lyric)
 layout: post
+categories: Apapun
 ---
 
 Ini salah satu lagu Nico yang udah tak repeat 748x.

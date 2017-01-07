@@ -1,6 +1,7 @@
 ---
 title: Hari Minggu Akhir Bulan. Kalender Istiqomah, Restart!
 layout: post
+categories: Apapun
 ---
 
 Besok memang cocok sekali untuk mengikat janji. Tanggal 1.  

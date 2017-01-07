@@ -1,6 +1,7 @@
 ---
 title: Kosan Paryadi - Tentang Adi
 layout: post
+categories: Cerpen
 ---
 
 "Woy cuk! Nih ada martabak tipis."  

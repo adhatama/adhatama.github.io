@@ -1,47 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-        <!-- <link rel="stylesheet" type="text/css" href="/assets/dist/style.css"> -->
-        <link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css">
-        <link rel="stylesheet" type="text/css" href="/assets/css/normalize.min.css">
-        <link rel="stylesheet" type="text/css" href="/assets/css/animate.min.css">
-        <link rel="stylesheet" type="text/css" href="/assets/css/monokai.css">
-        <link rel="stylesheet" type="text/css" href="/assets/css/niat.css">
-
-        <script>
-          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-          ga('create', 'UA-63596357-1', 'auto');
-          ga('send', 'pageview');
-
-        </script>
+        {% include head.html %}
     </head>
     <body>
         <div class="container-fluid">
-            <div class="row header">
-                <div class="col-xs-12 text-center">
-                    <div class="page-header">
-                        <h3 id="title"><a href="/">Adhatama</a></h3>
-
-                        <div class="text-center">
-                            <a href="https://github.com/adhatama" target="_blank">Github</a>
-                            |
-                            <a href="https://twitter.com/babaenciel" target="_blank">Twitter</a>
-                            |
-                            <a href="https://www.instagram.com/am.adhatama" target="_blank">Instagram</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            {% include header.html %}
 
             {% for post in site.posts %}
             <div class="row post-row">
@@ -59,9 +23,6 @@
             {% endfor %}
         </div>
 
-        <!-- <script type="text/javascript" src="/assets/dist/script.js"></script> -->
-        <script type="text/javascript" src="/assets/js/jquery-3.1.0.slim.min.js"></script>
-        <script type="text/javascript" src="/assets/js/bootstrap.min.js"></script>
-        <script type="text/javascript" src="/assets/js/my.js"></script>
+        {% include footer.html %}
     </body>
 </html>
